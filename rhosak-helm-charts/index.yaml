@@ -3,9 +3,9 @@ entries:
   rhosak-quarkus-kafka:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-24T20:53:24.581883+01:00"
+    created: "2023-01-24T22:35:13.716737+01:00"
     description: A Helm chart to deploy a RHOSAK Quarkus Kafka demo Kubernetes
-    digest: 7f375ebdb4cb8744248943f7b2c7f50cedf18595c4838399a0aefbe875ec57f3
+    digest: 310bd359556206472d756f6e00b1fac7be1eebc323bb08c89f7a43cafd5fd6d4
     name: rhosak-quarkus-kafka
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-24T20:53:24.581535+01:00"
+    created: "2023-01-24T22:35:13.716373+01:00"
     description: A Helm chart to deploy a RHOSAK Quarkus Kafka demo Kubernetes
     digest: 2e0d454651945c5e0c2caa4929a0d1fc1f94521e26e2bb374e7676c74ac13b5d
     name: rhosak-quarkus-kafka
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://duncandoyle.github.io/rhosak-helm-charts/charts/rhosak-quarkus-kafka/rhosak-quarkus-kafka-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-24T20:53:24.580263+01:00"
+generated: "2023-01-24T22:35:13.715141+01:00"
