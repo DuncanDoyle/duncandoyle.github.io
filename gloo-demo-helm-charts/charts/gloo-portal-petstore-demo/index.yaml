@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  gloo-portal-petstore-demo:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-03-28T11:53:04.963783+02:00"
+    description: A Helm chart to deploy a simple Petstore example on Gloo Edge with
+      Gloo Platform
+    digest: 57c7ac466bc69456d39d30ee6e6e508dd55e6318db9502c3334ac5ef32dfb665
+    name: gloo-portal-petstore-demo
+    type: application
+    urls:
+    - https://duncandoyle.github.io/gloo-demo-helm-charts/charts/gloo-portal-petstore-demo/gloo-portal-petstore-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-28T11:53:04.963499+02:00"
