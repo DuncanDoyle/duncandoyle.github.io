@@ -1,5 +1,5 @@
 # solo.io Gloo Demo Helm Charts
 
-[A Helm chart repository with charts for Gloo Edge and Gloo Platform demos](gloo-demo-helm-charts/).
+A [Helm chart repository](gloo-demo-helm-charts/) with charts for Gloo Edge and Gloo Platform demos.
 
 
