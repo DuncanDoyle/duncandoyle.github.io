@@ -3,7 +3,7 @@ entries:
   gloo-portal-petstore-demo:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-07-19T18:47:35.731354+02:00"
+    created: "2023-07-19T19:36:10.301787+02:00"
     description: A Helm chart to deploy a simple Petstore example on Gloo Edge with
       Gloo Platform
     digest: cfb86d22563c47c9fa080076cc5627660cdda80a76e67dd0d179b017c9b425c0
@@ -15,7 +15,17 @@ entries:
   gp-portal-demo-backstage:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-07-19T18:47:35.731613+02:00"
+    created: "2023-07-19T19:36:10.302321+02:00"
+    description: A Helm chart for Backstage for the Gloo Platform Portal demo
+    digest: 663925be7f99b4ede9ec556515ea1fb36d07693ec24301bda0f387c0b0829b1c
+    name: gp-portal-demo-backstage
+    type: application
+    urls:
+    - https://duncandoyle.github.io/gloo-demo-helm-charts/gp-portal-demo-backstage/gp-portal-demo-backstage-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-07-19T19:36:10.302053+02:00"
     description: A Helm chart for Backstage for the Gloo Platform Portal demo
     digest: ce174ee05e96577c9389d48877c371a2486fd50dd28c5efec42e9b7579151f73
     name: gp-portal-demo-backstage
@@ -26,7 +36,7 @@ entries:
   gp-portal-demo-devportal-ui:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-07-19T18:47:35.731742+02:00"
+    created: "2023-07-19T19:36:10.302561+02:00"
     description: A Helm chart for the DevPortal-UI for the Gloo Platform Portal demo
     digest: 331ee325e611db66dc494c0f2faa1418462c40b1d6d0933f1694eea509c87894
     name: gp-portal-demo-devportal-ui
@@ -34,4 +44,4 @@ entries:
     urls:
     - https://duncandoyle.github.io/gloo-demo-helm-charts/gp-portal-demo-devportal-ui/gp-portal-demo-devportal-ui-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-19T18:47:35.730753+02:00"
+generated: "2023-07-19T19:36:10.300435+02:00"
