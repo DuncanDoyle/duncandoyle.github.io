@@ -1,3 +1,5 @@
-# RHOSAK Quarkus Helm deployment demo
+# solo.io Gloo Demo Helm Charts
 
-Demo which uses Helm charts to deploy a Quarkus application and its required configuration to connect to a Kafka instance running on the Red Hat OpenShift Streams for Apache Kafka service.
+[A Helm chart repository with charts for Gloo Edge and Gloo Platform demos](gloo-demo-helm-charts/).
+
+
